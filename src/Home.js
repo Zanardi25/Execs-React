@@ -24,8 +24,8 @@ const Home = () => {
           <Link to="/Atv06">Atividade 06</Link>
           </li>
         <li>
-          <a href="https://github.com/Zanardi25/Execs-React" target="_blank">Link do repositorio do github</br>
-          </li>
+          <Link to="/Atv07">Repositorio</Link>
+        </li>
         </ul>
       </nav>
     </div>
