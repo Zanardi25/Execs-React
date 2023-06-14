@@ -6,6 +6,7 @@ import Atv03 from "./Atv03";
 import Atv04 from "./Atv04";
 import Atv05 from "./Atv05";
 import Atv06 from "./Atv06";
+import Atv07 from "./Atv07";
 
 export default function MinhasRotas(){
     return (
@@ -17,6 +18,7 @@ export default function MinhasRotas(){
            <Route path="/atv04" element={<Atv04 />} />
            <Route path="/atv05" element={<Atv05 />} />
            <Route path="/atv06" element={<Atv06 />} />
+           <Route path="/atv07" element={<Atv07 />} />
         </Routes>     
         </BrowserRouter>
     );
