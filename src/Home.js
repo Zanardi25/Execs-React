@@ -5,7 +5,7 @@ import "./Home.css"; // Importando o arquivo CSS
 const Home = () => {
   return (
     <div className="container">
-      <h1>Página Inicial</h1>
+      <h2> Exercicios React </h2>
       <nav>
         <ul>
           <li>
