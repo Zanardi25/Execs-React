@@ -34,7 +34,7 @@ function Relogio() {
 
   return (
     <div>
-      <p>Exercicio 1 - Relógio:</p>
+      <h3> Relógio:</h3>
       <h2>{horarioAtual}</h2>
     </div>
   );
