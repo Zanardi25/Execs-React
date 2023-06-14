@@ -1,6 +1,6 @@
 import Calculadora from "./Components/calculadora";
 import { Link } from "react-router-dom";
-import './calculdora.css';
+import './calculadora.css';
 
 export default function Atv06(){
     return (
