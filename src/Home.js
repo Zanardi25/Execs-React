@@ -20,6 +20,9 @@ const Home = () => {
           <li>
             <Link to="/Atv05">Atividade 05</Link>
           </li>
+         <li>
+            <Link to="/AtvCarrinho">AtividadeCarrinho</Link>
+         </li>
         </ul>
       </nav>
     </div>
