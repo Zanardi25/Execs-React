@@ -41,8 +41,7 @@
   .voltar {
     display: block;
     padding: 5px;
-    border-radius: 5px;
-    background-color: #f48626;
+    background-color: #000000;
     color: #ffffff;
     text-decoration: none;
     transition: background-color 0.3s ease;
